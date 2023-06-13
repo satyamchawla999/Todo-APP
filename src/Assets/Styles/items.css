@@ -1,0 +1,11 @@
+.items{
+    padding: 10px 20px;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+}
+
+.info{
+    color: black;
+}

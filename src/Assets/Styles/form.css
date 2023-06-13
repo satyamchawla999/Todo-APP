@@ -1,0 +1,17 @@
+input {
+    height: 35px;
+    width: 430px;
+    margin: 5px;
+    padding: 0px 10px;
+    font-size: 20px;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+
+button {
+    height: 40px;
+    font-size: 30px;
+    background-color: orange;
+    color: white;
+    border: none;
+}
